@@ -183,5 +183,6 @@ while True:
     else:
         os.system("clear")
     # Game loop
+    # Milan
     while rnd_while:
         

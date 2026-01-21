@@ -1,7 +1,7 @@
 # 🎯 Magyar Akasztófa Játék (Hangman)
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+
 
 Üdvözlünk a **magyar nyelvű akasztófa játékban**!  
 Próbáld ki a szókincsed különböző nehézségi szinteken, miközben klasszikus akasztófa stílusban találgatsz szavakat.  
@@ -10,7 +10,7 @@ Próbáld ki a szókincsed különböző nehézségi szinteken, miközben klassz
 
 ## 🔹 Főbb jellemzők
 
-- 🇭🇺 **Magyar szavak**, ékezetekkel  
+- **Magyar szavak**, ékezetekkel  
 - 📊 Több nehézségi szint:
   - **Könnyű** – gyakori, egyszerű szavak  
   - **Közepes** – kissé bonyolultabb szavak  
@@ -27,6 +27,18 @@ Próbáld ki a szókincsed különböző nehézségi szinteken, miközben klassz
 
 1. **Python 3.x** szükséges  
 2. Klónozd a repót:  
+
+---
+
+## 🚀 Fejlesztési tervek
+
+A játék folyamatosan fejlődik! A következő újításokra számíthatsz:
+
+- 🖥️ **GUI verzió** – Konzol helyett grafikus felület, intuitív és látványos
+- 🐞 **Hibajavítások** – Kisebb bugok és stabilitási problémák orvoslása
+- ❤️‍🩹 **Testreszabható HP** – A játékos választhatja meg a hibázási lehetőségek számát
+- ⚡ **Extra funkciók** – Többjátékos mód, pontozás, rekordlista
+
 
 ```bash
 git clone https://github.com/felhasznalonev/akasztofa.git
