@@ -64,7 +64,6 @@ def guessing_letter(word, guess):
     wrong_letters = set()
     tries = 0
     MAX_TRIES = 5
-    
     while "".join(guess).lower() != word.lower() and tries < MAX_TRIES:
         if platform.system() == "Windows":
             os.system("cls")
@@ -111,8 +110,7 @@ def guessing_letter(word, guess):
     # Végeredmény
     if "".join(guess).lower() == word.lower():
         print("Gratulálok, nyertél!")
-        for i in range(10):
-            time.sleep(10)
+        time.sleep(10)
     else:
         if platform.system() == "Windows":
             os.system("cls")
