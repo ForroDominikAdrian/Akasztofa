@@ -29,7 +29,7 @@ Próbáld ki a szókincsed különböző nehézségi szinteken, miközben klassz
 2. Klónozd a repót:
 
 ```bash
-git clone https://github.com/felhasznalonev/akasztofa.git
+git clone https://github.com/ForroDominikAdrian/akasztofa.git
 cd akasztofa
 ```
 ---
